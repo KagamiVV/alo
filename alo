@@ -1,0 +1,7 @@
+from random import * 
+
+x = randint(1,2)
+if x == 1:
+    print("govno el")
+else:
+    print("ne el gavno")
